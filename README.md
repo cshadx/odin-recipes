@@ -1,5 +1,5 @@
 # odin-recipes
-Website for the "recipe project" of The Odin Project
+My "recipe project" - a website solely in HTML made for The Odin Project
 
 Four webpages: an index, and one for each of the three recipes (chicken tikka shawarma, the greatest burger and sauce, and spicy onion rings)
 
